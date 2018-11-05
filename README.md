@@ -12,7 +12,7 @@ Store is a Java library for effortless, reactive data loading.
 
 A Store is a class that simplifies fetching, parsing, storage, and retrieval of data in your application. A Store is similar to the Repository pattern [[https://msdn.microsoft.com/en-us/library/ff649690.aspx](https://msdn.microsoft.com/en-us/library/ff649690.aspx)] while exposing a Reactive API built with [RxJava](https://github.com/ReactiveX/RxJava) that adheres to a unidirectional data flow.
 
-Store provides a level of abstraction between UI elements and data operations.
+Store provides a level of abstraction between UI element and data operations.
 
 ### Overview
 
